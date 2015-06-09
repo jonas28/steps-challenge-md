@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>todos</string>
+		<string>images</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Bauchmuskeln-vor-der-Glotze.md</string>
+		</array>
+		<array>
+			<string>Du-bist-was-du-isst.md</string>
+		</array>
+		<array>
+			<string>Peeling-für-glatte-Haut.md</string>
+		</array>
+		<array>
+			<string>Wasser-Marsch.md</string>
+		</array>
+	</array>
+</dict>
+</plist>
